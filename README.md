@@ -32,29 +32,29 @@ An AI-powered Mood Tracker built with React, TypeScript, Vite, and Tailwind CSS 
 
 Clone the repository
 
-Bash
-
+```bash
 git clone https://github.com/hemanthreddy16/Ai-Mood-Tracker.git
+```
 
 Navigate to the project
 
-Bash
-
+```bash
 cd Ai-Mood-Tracker
+```
 
 Install dependencies
 
 Using npm
 
-Bash
-
+```bash
 npm install
+```
 
 or using Bun
 
-Bash
-
+```bash
 bun install
+```
 
 ---
 
@@ -62,19 +62,21 @@ bun install
 
 Using npm
 
-Bash
-
+```bash
 npm run dev
+```
 
 Using Bun
 
-Bash
-
+```bash
 bun run dev
+```
 
 Open your browser and visit
 
+```
 http://localhost:5173
+```
 
 ---
 
