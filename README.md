@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+#Welcome to Ai Mood Tracker
 
 TODO: Document your project here
